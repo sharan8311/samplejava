@@ -16,6 +16,7 @@ class Student4{
     Student4 s2 = new Student4(222,"Aryan");  
     //calling method to display the values of object  
     s1.display();  
-    s2.display();  
+    s2.display(); 
+    s1.display(); 
    }  
 }  
